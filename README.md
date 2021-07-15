@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asad
 - 👀 I’m interested in Software designing and development
-- 🌱 I’m currently learning different frameworks for mobile app development. like flutter,ionic and others.
+- 🌱 I’m currently working on different frameworks for mobile app development. like flutter,react and others.
 - 💞️ I’m looking to collaborate on projects of all nature.
 - 📫 Contact me at asadsarwar917@gmail.com
 
